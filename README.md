@@ -20,14 +20,16 @@ End the program
 
 
 ## PROGRAM:
-
+developed by : srivatsan G 
+register no: 212223230216
+```
 a=(input())
 b=(input())
 c=a
 a=b
 b=c
 print("Swapped values are:",a,b)
-
+```
 
 ## OUTPUT:
 ![SWAPPING OF TWO VARIABLES](https://github.com/vatsan143/Swapping-two-values/assets/147368204/28b4e5d5-50b1-4b4a-bf51-87fbfbe39928)
